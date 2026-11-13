@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Louise's Finance Portfolio</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; line-height: 1.6; color: #333; }
+        h1 { color: #2c3e50; }
+        h2 { color: #34495e; border-bottom: 1px solid #eee; padding-bottom: 5px; }
+        .tag { font-size: 0.9em; color: #7f8c8d; }
+    </style>
+</head>
+<body>
+    <h1>Louise (Yu Lu)</h1>
+    <p class="tag">Finance Student · Class of 2026 · Email: 18107798138@163.com</p>
+    <p>Welcome to my project portfolio. Below are some self-initiated projects I built to solve practical problems in my finance studies and internship search:</p>
+
+    <h2>1. Financial Statement Analysis Webpage</h2>
+    <p class="tag">Group Coursework Project</p>
+    <p><strong>My Role:</strong> Focused on defining the analytical metrics and presenting conclusions.</p>
+    <p><strong>Overview:</strong> Built a web-based tool to analyze the earnings quality of A-share manufacturing companies. Conducted preliminary data processing and financial metric logic design (e.g., cash flow vs. net income).</p>
+
+    <h2>2. Internship Information Management Platform</h2>
+    <p class="tag">Personal Workflow Tool</p>
+    <p><strong>The Problem:</strong> Internship postings are scattered across WeChat groups and websites, making them easy to miss and hard to compare.</p>
+    <p><strong>My Solution:</strong> Designed a structured tracking system to manage XX+ opportunities, tracking key variables like application deadlines, role types, and return offer potential to improve decision-making efficiency.</p>
+
+    <h2>3. AI-Assisted Information Processing (DeepSeek via QQ)</h2>
+    <p class="tag">Tech Exploration</p>
+    <p><strong>Overview:</strong> Integrated an AI model into a chat interface to assist with preliminary financial information processing, such as summarizing research reports or reading announcements.</p>
+    <p><strong>Risk Management:</strong> I use AI for initial screening only; final investment/analysis conclusions are always verified against the original source documents.</p>
+    
+    <hr>
+    <p class="tag">Connect with me on <a href="www.linkedin.com/in/Yulu0819">LinkedIn</a> or view my code on <a href="https://github.com/Louise0819">GitHub</a>.</p>
+</body>
+</html>
