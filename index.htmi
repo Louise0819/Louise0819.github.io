@@ -64,7 +64,7 @@
             <h2>Financial Statement Analysis Webpage</h2>
             <p><strong>My Role:</strong> Focused on defining the analytical metrics and presenting conclusions.</p>
             <p><strong>Overview:</strong> Built a web-based tool to analyze the earnings quality of A-share manufacturing companies. Conducted preliminary data processing and financial metric logic design (e.g., cash flow vs. net income).</p>
-            <!-- 在这里插入截图： <img src="你的图片链接" width="100%"> -->
+            <!-- 在这里插入截图： <img src="https://github.com/Louise0819/Louise0819.github.io/blob/main/Financial%20Statement%20Analysis%20Webpage.png" width="100%"> -->
         </div>
 
         <div class="card">
@@ -72,7 +72,7 @@
             <h2>Internship Information Management Platform</h2>
             <p><strong>The Problem:</strong> Internship postings are scattered across WeChat groups and websites, making them easy to miss and hard to compare.</p>
             <p><strong>My Solution:</strong> Designed a structured tracking system to manage XX+ opportunities, tracking key variables like application deadlines, role types, and return offer potential to improve decision-making efficiency.</p>
-            <!-- 在这里插入截图： <img src="你的图片链接" width="100%"> -->
+            <!-- 在这里插入截图： <img src="https://github.com/Louise0819/Louise0819.github.io/blob/main/Internship%20Information%20Management%20Platform.png" width="100%"> -->
         </div>
 
         <div class="card">
@@ -80,7 +80,7 @@
             <h2>AI-Assisted Information Processing (DeepSeek via QQ)</h2>
             <p><strong>Overview:</strong> Integrated an AI model into a chat interface to assist with preliminary financial information processing, such as summarizing research reports or reading announcements.</p>
             <p><strong>Risk Management:</strong> I use AI for initial screening only; final investment/analysis conclusions are always verified against the original source documents.</p>
-            <!-- 在这里插入截图： <img src="你的图片链接" width="100%"> -->
+            <!-- 在这里插入截图： <img src="https://github.com/Louise0819/Louise0819.github.io/blob/main/Deepseek%20via%20QQ.png" width="100%"> -->
         </div>
     </div>
 </body>
